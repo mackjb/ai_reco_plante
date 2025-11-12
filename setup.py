@@ -12,7 +12,6 @@ setup(
     packages=find_packages(),
     python_requires=">=3.11",
     install_requires=[
-        "kagglehub",
         "jupyter",
         "ipykernel",
         "pandas",
